@@ -1,0 +1,5 @@
+# In _toc.yml
+format: jb-book
+root: intro.md
+chapters:
+- file: 1_Basic_RL/1_RL_basics.ipynb
