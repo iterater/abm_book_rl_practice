@@ -7,7 +7,7 @@
 |1|Basic RL example with CartPole|`1_Basic_RL/1_RL_basics.ipynb`|Need reworking|
 |2|Inverse RL|-|TBD - Ashish|
 |3|MARL|-|TBD - Chao|
-|4|RLHF|-|TBD - ?|
+|4|RLHF|-|TBD - Ekaterina|
 
 ## Chapter instruction
 
