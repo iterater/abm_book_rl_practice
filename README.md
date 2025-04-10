@@ -4,7 +4,7 @@
 | |Chapter|Location|Status|
 |-|-|-|-|
 |0|Introduction|`intro.md`|TBD|
-|1|Basic RL example with CartPole|`1_Basic_RL/1_RL_basics.ipynb`|Need reworking|
+|1|Basic RL example with CartPole|`1_Basic_RL/1_RL_basics.ipynb`|✅ Done (possible update)|
 |2|Inverse RL|-|TBD - Ashish|
 |3|MARL|`3_MARL/MARL.ipynb`|✅ Done - Chao|
 |4|RLHF|-|TBD - Ekaterina|
