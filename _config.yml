@@ -1,9 +1,9 @@
 # In _config.yml
-title: My sample book
-author: The Jupyter Book Community
+title: Reinforcement learning - advanced topics practical hands-on
+author: Sergey V. Kovalchuk, Ashish T.S. Ireddy, Chao Li, Ekaterina Kravtsova
 # logo: logo.png
 execute:
-  execute_notebooks: force
+  execute_notebooks: 'off'
 
 # Add a bibtex file so that we can create citations
 # bibtex_bibfiles:
