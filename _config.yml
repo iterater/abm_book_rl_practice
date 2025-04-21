@@ -1,6 +1,7 @@
 # In _config.yml
-title: Reinforcement learning - advanced topics practical hands-on
-author: Sergey V. Kovalchuk, Ashish T.S. Ireddy, Chao Li, Ekaterina Kravtsova
+title: Reinforcement learning - selected advanced topics practical hands-on
+author: Sergey V. Kovalchuk and Ashish T.S. Ireddy and Chao Li
+copyright: 2025
 # logo: logo.png
 execute:
   execute_notebooks: 'off'
