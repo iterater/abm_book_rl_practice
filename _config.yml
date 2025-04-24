@@ -1,11 +1,10 @@
 # In _config.yml
-title: Reinforcement learning - selected advanced topics practical hands-on
-author: Sergey V. Kovalchuk and Ashish T.S. Ireddy and Chao Li
+title: "Selected advanced topics in reinforcement learning: practical hands-on"
+author: "Sergey V. Kovalchuk, Ashish T.S. Ireddy, Chao Li"
 copyright: 2025
 # logo: logo.png
 execute:
   execute_notebooks: 'off'
 
-# Add a bibtex file so that we can create citations
-# bibtex_bibfiles:
-#   - references.bib
+bibtex_bibfiles:
+  - references.bib

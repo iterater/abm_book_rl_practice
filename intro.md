@@ -42,3 +42,7 @@ This book is designed for two complementary modes of engagement:
 - Encourages critical thinking by highlighting where methods fail or require careful tuning.  
 
 **Getting Started:** Proceed to the first chapter - or jump to the topic most relevant to your work.
+
+## TODO:
+- [ ] references to github
+- [ ] references to web version
