@@ -46,3 +46,7 @@ This book is designed for two complementary modes of engagement:
 ## TODO:
 - [ ] references to github
 - [ ] references to web version
+
+
+```{bibliography}
+```

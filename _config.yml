@@ -1,10 +1,11 @@
 # In _config.yml
 title: "Selected advanced topics in reinforcement learning: practical hands-on"
 author: "Sergey V. Kovalchuk, Ashish T.S. Ireddy, Chao Li"
-copyright: 2025
-# logo: logo.png
+copyright: "2025"
+logo: "itmo_logo_black.png"
 execute:
   execute_notebooks: 'off'
 
 bibtex_bibfiles:
   - references.bib
+
