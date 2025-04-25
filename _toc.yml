@@ -5,3 +5,4 @@ chapters:
 - file: 1_Basic_RL/1_RL_basics.ipynb
 - file: 2_Inverse_RL/2_IRL.ipynb
 - file: 3_MARL/MARL.ipynb
+# - file: 4_RLHF/Images/4_RLHF.ipynb

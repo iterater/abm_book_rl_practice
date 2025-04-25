@@ -1,10 +1,21 @@
 # In _config.yml
-title: "Selected advanced topics in reinforcement learning: practical hands-on"
+title: "Selected topics in reinforcement learning: practical hands-on"
 author: "Sergey V. Kovalchuk, Ashish T.S. Ireddy, Chao Li"
 copyright: "2025"
-logo: "itmo_logo_black.png"
+# logo: "itmo_logo_black.png"
 execute:
   execute_notebooks: 'off'
+
+# parse:
+#   myst_enable_extensions:
+#     - html_image
+
+repository:
+  url: https://github.com/iterater/abm_book_rl_practice
+  branch: main
+
+html:
+  baseurl: "https://iterater.github.io/education/rl_practice"
 
 bibtex_bibfiles:
   - references.bib
