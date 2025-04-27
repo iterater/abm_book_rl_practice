@@ -1,13 +1,13 @@
-# ABM: Practice book on RL
+# Practice book on RL
 
-## ToC
+## Progress
 | |Chapter|Location|Status|
 |-|-|-|-|
-|0|Introduction|`intro.md`|TBD|
-|1|Basic RL example with CartPole|`1_Basic_RL/1_RL_basics.ipynb`|✅ Done (possible update)|
-|2|Inverse RL|`2_Inverse_RL/2_IRL.ipynb.ipynb`|✅ Done - Ashish|
-|3|MARL|`3_MARL/MARL.ipynb`|✅ Done - Chao|
-|4|RLHF|-|TBD - Ashish|
+|0|Introduction|`intro.md`|✅ Done|
+|1|Basic RL example with CartPole|`1_Basic_RL/1_RL_basics.ipynb`|✅ Done|
+|2|Inverse RL|`2_Inverse_RL/2_IRL.ipynb.ipynb`|✅ Done|
+|3|MARL|`3_MARL/MARL.ipynb`|✅ Done|
+|4|RLHF|`4_RLHF/4_RLHF.ipynb`|TBD - Ashish|
 
 ## Chapter instruction
 
@@ -20,7 +20,6 @@ Each chapter is implemented in a form of single notebook (`.ipynb`) structured w
 
 ## Building
 
-The book is intent to be compiled using [JupyterBook](https://jupyterbook.org/en/stable/intro.html). The following command is used to run building
-```bash
-jupyter-book build . --builder pdflatex
-```
+The book composed with [JupyterBook](https://jupyterbook.org/). Building commands:
+- for PDF: `build_pdf.sh`
+- for HTML: `build_html.sh`

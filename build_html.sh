@@ -10,4 +10,4 @@ jupyter-book build . --builder html
 ./clean_underscore.sh ./_build/html/
 
 # Zip content to out folder
-zip -r ./out/html.zip ./_build/html/
+zip -r ./build_results/html.zip ./_build/html/
