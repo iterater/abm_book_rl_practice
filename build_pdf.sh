@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm ./_build/latex/python.pdf
+rm ./_build/latex/*
 
 jupyter-book build . --builder pdflatex
 
