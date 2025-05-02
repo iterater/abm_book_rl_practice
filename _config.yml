@@ -21,3 +21,10 @@ html:
 bibtex_bibfiles:
   - references.bib
 
+sphinx:
+  config:
+    today_fmt: "%Y"
+    latex_elements: 
+      papersize: "a4paper"
+      extraclassoptions: "openany"
+      tableofcontents: "\\pagenumbering{arabic}\n\\sphinxtableofcontentshook\n\\tableofcontents\n\\chapter{Introduction}"

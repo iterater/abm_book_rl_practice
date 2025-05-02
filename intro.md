@@ -1,8 +1,8 @@
-# Front matter
+# Introduction
 
-## Introduction
+<!-- ## Introduction -->
 
-Reinforcement Learning (RL) has evolved far beyond its foundational algorithms like Q-learning and policy gradients. While introductory texts often focus on single-agent Markov Decision Processes (MDPs) and tabular methods, this book takes a different approach: it assumes familiarity with RL basics and instead explores adjacent and advanced topics that are increasingly critical in both research and industry applications.  
+Reinforcement Learning (RL) has evolved far beyond its foundational algorithms like Q-learning and policy gradients. While introductory texts often focus on single-agent Markov Decision Processes (MDPs) and tabular methods, this textbook takes a different approach: it assumes familiarity with RL basics and instead explores adjacent and advanced topics that are increasingly critical in both research and industry applications.  
 
 This is not a book that introduce basic concepts and ideas of RL. Instead, it is designed for readers who already understand RL’s core principles and want to:  
 - Implement and experiment with less commonly taught RL variants (e.g., inverse RL, multi-agent systems).  
@@ -17,7 +17,7 @@ Most RL textbooks and courses follow a predictable trajectory: dynamic programmi
 
 ## Structure and topics
 
-The book is organized into four self-contained but complementary sections:  
+The remaining book is organized into four self-contained but complementary sections:  
 
 1. *Basics of Reinforcement Learning: The CartPole Model.* Covers basics ideas and concepts of RL, value iteration, and policy gradient methods.  
 2. *Inverse Reinforcement Learning (IRL): Inferring Reward Functions.* Examines the problem of reward shaping from expert trajectories, demonstrates maximum entropy IRL.  
@@ -50,7 +50,9 @@ The book is developed as a practical training text book available in MSc program
 - Balances implementability with depth - code is simple enough to run on a laptop but sophisticated enough to be research-relevant.  
 - Encourages critical thinking by highlighting where methods fail or require careful tuning.  
 
-<!-- **Review:** The book was reviewed by Dmitry S. Shalymov, PhD (candidate of sciences in physics and mathematics), Associate Professor, St. Petersburg State University. -->
+<!-- **Review:** The book was reviewed by:
+- Dmitry S. Shalymov, PhD (candidate of sciences in physics and mathematics), Associate Professor, St. Petersburg State University
+- Alexander E. Shukhman, PhD (candidate of sciences in pedagogy), Head of Mathematics and Digital Technologies Department, Orenburg State University -->
 
 ```{bibliography}
 ```
