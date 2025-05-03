@@ -6,7 +6,7 @@ This is a repository for textbook "Selected topics in reinforcement learning: pr
 - this repo (see Content below), **NB:** some notebook content is optimized to JupyterBook, so the above options are recommended
 
 ## Content
-1. [Introduction](`intro.md`)
+1. [Introduction](intro.md)
 1. [Reinforcement Learning Basics with CartPole Model](1_Basic_RL/1_RL_basics.ipynb)
 1. [Inverse Reinforcement Learning with Grid World Traversal](2_Inverse_RL/2_IRL.ipynb.ipynb)
 1. [Markov Games for Multi-Agent RL with Littman’s Soccer Experiment](3_MARL/MARL.ipynb)
