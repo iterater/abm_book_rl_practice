@@ -1,4 +1,4 @@
-# Practice book on RL
+# Practice textbook on reinforcement learning
 
 This is a repository for textbook **"Selected topics in reinforcement learning: practical hands-on"** presenting practical hands on in selected topics on reinforcement learning. The book is designed with [JupyterBook](https://jupyterbook.org/en/stable/intro.html). The equal content is presented with:
 - [online published version](https://iterater.github.io/education/rl_practice/)
