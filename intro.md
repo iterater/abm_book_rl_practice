@@ -55,4 +55,5 @@ The book is developed as a practical training text book available in MSc program
 - Alexander E. Shukhman, PhD (candidate of sciences in pedagogy), Head of Mathematics and Digital Technologies Department, Orenburg State University -->
 
 ```{bibliography}
+:style: unsrt
 ```
